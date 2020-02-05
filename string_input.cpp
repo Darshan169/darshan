@@ -1,3 +1,5 @@
+//how to get string input
+
 #include <iostream>
 #include<iostream>
 #include<iomanip>
